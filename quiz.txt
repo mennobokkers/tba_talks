@@ -1,5 +1,5 @@
 Question 1
-Answer : A
+Answer : A->C
 
 Question 2
 Answer : B
